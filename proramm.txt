@@ -1,1 +1,1 @@
-cout("Hello, Word")
+cout("Hello, Word!")
