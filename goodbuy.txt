@@ -1,1 +1,2 @@
 printf ("goodby")
+printf ("buy")
