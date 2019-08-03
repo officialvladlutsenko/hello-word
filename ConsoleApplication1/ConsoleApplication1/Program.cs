@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             int num, num_1; 
-            Console.WriteLine("Enter first num:");
+            Console.WriteLine("Enter first num: 2");
             num = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("\nEnter second num:");
             num_1 = Convert.ToInt32(Console.ReadLine());
