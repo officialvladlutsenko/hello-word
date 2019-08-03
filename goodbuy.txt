@@ -1,2 +1,2 @@
-printf ("goodby")
-printf ("buy")
+printf ("goodby;")
+printf ("buy;")

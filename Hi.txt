@@ -1,3 +1,4 @@
-print ("Hi")
-print ("Hello my dear friand")
-Print ("Hi hi")
+<<<<<<< HEAD
+print ("Hi;")
+print ("Hello my dear friand;")
+Print ("Hi hi;")
